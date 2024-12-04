@@ -76,7 +76,7 @@ pip install streamlit google-generativeai PyPDF2
 ## 📞 문의
 
 프로젝트에 대한 문의나 버그 리포트는 다음 방법으로 연락해 주세요:
-- 이슈 등록: [GitHub Issues](링크)
+- 이슈 등록: [GitHub Issues](https://github.com/ZeronOne2/Paper_review_team/issues)
 - 이메일: [zeronone2@yahoo.com]
 
 ## 📄 라이선스
